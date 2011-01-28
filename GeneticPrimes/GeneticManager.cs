@@ -72,6 +72,10 @@ namespace DDW.Genetic
 
             population[lowestIndex] = bestEver.Clone();
             population[lowestIndex].Mutate();
+            population[0].Mutate();
+            //population[1].Mutate();
+            //population[2].Mutate();
+            //population[3].Mutate();
         }
 
         public void BreedPopulation()
