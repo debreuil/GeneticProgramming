@@ -1,0 +1,5 @@
+C:\csdev\Genetic\GeneticPrimes\GeneticPrimes\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\csdev\Genetic\GeneticPrimes\GeneticPrimes\bin\Debug\GeneticPrimes.exe
+C:\csdev\Genetic\GeneticPrimes\GeneticPrimes\bin\Debug\GeneticPrimes.pdb
+C:\csdev\Genetic\GeneticPrimes\GeneticPrimes\obj\x86\Debug\GeneticPrimes.exe
+C:\csdev\Genetic\GeneticPrimes\GeneticPrimes\obj\x86\Debug\GeneticPrimes.pdb
